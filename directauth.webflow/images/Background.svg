@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="781px" viewBox="0 0 1440 781" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0.266575169%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0.266575169%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Base" transform="translate(130.000000, -769.000000)">
+            <circle id="Oval" fill="#1565D8" cx="1058" cy="1288" r="489"></circle>
+            <path d="M1407,2237 C1734.50486,2237 2000,1971.50486 2000,1644 C2000,1316.49514 1734.50486,1051 1407,1051 C1079.49514,1051 814,1316.49514 814,1644 C814,1971.50486 1079.49514,2237 1407,2237 Z M1407,2037 C1189.95209,2037 1014,1861.04791 1014,1644 C1014,1426.95209 1189.95209,1251 1407,1251 C1624.04791,1251 1800,1426.95209 1800,1644 C1800,1861.04791 1624.04791,2037 1407,2037 Z" id="Oval" fill="url(#linearGradient-1)" opacity="0.149999991"></path>
+            <path d="M593,1186 C920.504857,1186 1186,920.504857 1186,593 C1186,265.495143 920.504857,0 593,0 C265.495143,0 0,265.495143 0,593 C0,920.504857 265.495143,1186 593,1186 Z M593,986 C375.952093,986 200,810.047907 200,593 C200,375.952093 375.952093,200 593,200 C810.047907,200 986,375.952093 986,593 C986,810.047907 810.047907,986 593,986 Z" id="Oval" fill="url(#linearGradient-2)" opacity="0.149999991"></path>
+        </g>
+        <path d="M1440,781 L0,781 L0,606 C240,659.333333 480,686 720,686 C960,686 1200,659.333333 1440,606 L1440,781 Z" id="Wave" fill="#FFFFFF"></path>
+    </g>
+</svg>
